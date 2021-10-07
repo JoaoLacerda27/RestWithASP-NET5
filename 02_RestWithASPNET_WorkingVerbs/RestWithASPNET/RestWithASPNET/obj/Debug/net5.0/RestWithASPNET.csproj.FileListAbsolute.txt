@@ -56,3 +56,32 @@ C:\Temp\Ws-Vs2019\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET_ScaffoldVi
 C:\Temp\Ws-Vs2019\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\ref\RestWithASPNET.dll
 C:\Temp\Ws-Vs2019\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.pdb
 C:\Temp\Ws-Vs2019\RestWithASP-NET5\RestWithASP-NET5\02_RestWithASPNET_ScaffoldViaVisualStudio\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.genruntimeconfig.cache
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\appsettings.json
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\RestWithASPNET.exe
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\RestWithASPNET.deps.json
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\RestWithASPNET.runtimeconfig.json
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\RestWithASPNET.runtimeconfig.dev.json
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\RestWithASPNET.dll
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\ref\RestWithASPNET.dll
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\RestWithASPNET.pdb
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.csproj.AssemblyReference.cache
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.AssemblyInfoInputs.cache
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.AssemblyInfo.cs
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\staticwebassets\RestWithASPNET.StaticWebAssets.Manifest.cache
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\staticwebassets\RestWithASPNET.StaticWebAssets.xml
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\scopedcss\bundle\RestWithASPNET.styles.css
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.RazorTargetAssemblyInfo.cache
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.csproj.CopyComplete
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.dll
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\ref\RestWithASPNET.dll
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.pdb
+C:\Users\joao.r.lacerda\Desktop\PROJETOS PESSOAIS\RestWithASP-NET5\02_RestWithASPNET_WorkingVerbs\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.genruntimeconfig.cache
